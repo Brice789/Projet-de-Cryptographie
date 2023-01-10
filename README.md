@@ -1,6 +1,6 @@
 ﻿**Projet de cryptographie**
 
-*Kireche Brice Laboudi Hocine*
+*Kireche Brice 
 
 Sommaire
 
