@@ -307,7 +307,6 @@ Sur un plan moins technique, je pense que nous avons compris que l’apprentissa
 
 Sources:
 
-[Projet Crypto](https://etesiea-my.sharepoint.com/:f:/g/personal/kireche_et_esiea_fr/Evbm3qljE69EuoF0vQx-cDcBqRp-lcA6Wkceo-QxBEgqig?e=u5MGda)
 
 [https://github.com/google/certificate-transparency-go ](https://github.com/google/certificate-transparency-go)[https://certstream.calidog.io/ ](https://certstream.calidog.io/)[https://github.com/CaliDog/Axeman ](https://github.com/CaliDog/Axeman)<https://www.di-mgt.com.au/rsa_alg.html>
 
